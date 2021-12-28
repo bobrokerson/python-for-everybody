@@ -1,2 +1,2 @@
 # python-michigan
-https://www.coursera.org/specializations/python
+Course Link (Coursera): https://www.coursera.org/specializations/python
