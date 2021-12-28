@@ -5,13 +5,9 @@
 
 # This first line is provided for you
 
-hrs = raw_input("Enter Hours:")
+hrs = input("Enter Hours:")
 
-rate = raw_input("Enter Rate:")
-
-hrs = float(hrs)
-
-rate = float(rate)
+rate = input("Enter Rate:")
 
 pay = float(hrs)*float(rate)
 
