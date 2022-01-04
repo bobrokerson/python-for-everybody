@@ -18,4 +18,4 @@ elif s < .6:
 else:
 	x ="Out of Range"
   
-print (x)
+print(x)
