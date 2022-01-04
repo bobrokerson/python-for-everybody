@@ -1,4 +1,4 @@
 # python-michigan
 Course Link (Coursera): https://www.coursera.org/specializations/python
 
-December 2021 1
+December 2021
