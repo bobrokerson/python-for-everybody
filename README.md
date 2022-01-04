@@ -1,13 +1,15 @@
 # Description
 Python for everybody specialization introduces fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language.
-* First item Data Structure
-
+## Skills
+* Data Structure
+* Python Programming
+* Database (DBMS)
+* Python Syntax And Semantics
+* Xml / Json 
+* SQL / Sqlite 
+* Librires: faker / pandas / numpy
 
 Course Link (Coursera): https://www.coursera.org/specializations/python
-
-# Description
-
-December 2021
 
 Certificate https://www.coursera.org/account/accomplishments/certificate/788XT35HJE5M
 
