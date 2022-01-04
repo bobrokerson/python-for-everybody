@@ -3,10 +3,10 @@
 Python for everybody specialization introduces fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language.
 
 ## Skills
-* Data Structure
-* Python Programming
+* Data structure
+* Python programming
 * Database (DBMS)
-* Python Syntax And Semantics
+* Python syntax and semantics
 * Xml / Json 
 * SQL / Sqlite 
 * Libraries: faker / pandas / numpy
