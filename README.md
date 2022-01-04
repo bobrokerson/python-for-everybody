@@ -7,11 +7,11 @@ Python for everybody specialization introduces fundamental programming concepts 
 * Python Syntax And Semantics
 * Xml / Json 
 * SQL / Sqlite 
-* Librires: faker / pandas / numpy
+* Libraries:: faker / pandas / numpy
 
-Course Link (Coursera): https://www.coursera.org/specializations/python
+### Course Link (Coursera): https://www.coursera.org/specializations/python
 
-Certificate https://www.coursera.org/account/accomplishments/certificate/788XT35HJE5M
+### Certificate https://www.coursera.org/account/accomplishments/certificate/788XT35HJE5M
 
 # License
 Open-sourced software licensed under the MIT license.
