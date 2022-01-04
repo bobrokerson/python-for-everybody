@@ -129,6 +129,6 @@ What will the value for istr after this code executes?
 false
 It will be a random number depending on the operating system the program runs on
 -1
-9 (the number of characters in 'Hello Bob')
+9 (the number of characters in 'Hello Bob.')
 
 Answer: -1
