@@ -1,5 +1,4 @@
 # first task/ output data via variable
-
 output
 print("Hello World 2021")
 
