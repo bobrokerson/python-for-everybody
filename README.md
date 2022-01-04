@@ -9,7 +9,7 @@ Python for everybody specialization introduces fundamental programming concepts 
 * SQL / Sqlite 
 * Libraries:: faker / pandas / numpy
 
-Course Link (Coursera): https://www.coursera.org/specializations/python
+[Course Link (Coursera)] (https://www.coursera.org/specializations/python)
 ## Example
 [Look at the code](https://github.com/bobrokerson/python_michigan/blob/main/assignment/assignment6.py)
 
