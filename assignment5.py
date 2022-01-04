@@ -22,4 +22,4 @@ while True:
 print("Maximum is",tss) 
 print("Minimum is",ps) 
 
-# IMPRORTANT sould enter "done" in the end
+# IMPRORTANT sould enter "done" in the end.
