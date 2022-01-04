@@ -10,6 +10,8 @@ Python for everybody specialization introduces fundamental programming concepts 
 * Libraries:: faker / pandas / numpy
 
 Course Link (Coursera): https://www.coursera.org/specializations/python
+## Example
+[Look at the code](https://github.com/bobrokerson/python_michigan/blob/main/assignment/assignment6.py)
 
 Certificate https://www.coursera.org/account/accomplishments/certificate/788XT35HJE5M
 
