@@ -1,5 +1,7 @@
-# python
-print ("Hello World 2021")
+# first task/ output data via variable
 
-output='Hello World 2022'
 output
+print("Hello World 2021")
+
+out = 'Hello World 2022'
+print(out)
